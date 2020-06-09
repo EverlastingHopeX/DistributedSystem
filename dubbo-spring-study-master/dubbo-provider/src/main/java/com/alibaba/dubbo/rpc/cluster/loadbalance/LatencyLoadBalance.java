@@ -1,4 +1,4 @@
-package com.balance;
+package com.alibaba.dubbo.rpc.cluster.loadbalance;
 
 import java.util.List;
 
