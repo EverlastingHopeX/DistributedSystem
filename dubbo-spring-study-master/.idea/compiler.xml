@@ -10,10 +10,5 @@
         <module name="dubbo-provider" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="dubbo-consumer" target="1.5" />
-      <module name="dubbo-provider" target="1.5" />
-      <module name="dubbo-spring-study" target="1.5" />
-    </bytecodeTargetLevel>
   </component>
 </project>
